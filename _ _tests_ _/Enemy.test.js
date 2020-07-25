@@ -1,7 +1,3 @@
-const Potion = require('../lib/Potion');
-
-jest.mock('../lib/Potion.js');
-
 const Enemy = require('../lib/Enemy');
 
 test('creates an enemy object', () => {
