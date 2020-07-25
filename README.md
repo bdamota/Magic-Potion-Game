@@ -3,6 +3,8 @@
 RPG generated from the command-line using Node, Inquierer and Jest. 
 
 ## Screenshot:
+![image](https://github.com/bdamota/Magic-Potion-Game/blob/master/Screen%20Shot%202020-07-24%20at%209.04.32%20PM.png)
+
 
 ## Technologies:
 - JavaScript 
